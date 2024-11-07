@@ -1,4 +1,4 @@
-# Captcha Solver Chrome Extension
+# Captcha-er v1.0
 
 This Chrome extension automates the process of solving captcha images on websites. It uses image processing techniques to recognize and solve captchas efficiently. Once a captcha is recognized, the extension automatically fills the solution into the appropriate input field.
 
