@@ -24,3 +24,8 @@ This Chrome extension automates the process of solving captcha images on website
 
    ```bash
    git clone https://github.com/noctkun/vtop_captchaer.git
+
+### Demo
+
+https://github.com/user-attachments/assets/162adfeb-d4d4-490c-8ea5-8a2fa98286ad
+
